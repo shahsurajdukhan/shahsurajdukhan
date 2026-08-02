@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj</h1>
 <h3 align="center">A passionate self Taught Software developer who is learning more and more everyday.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahsurajdukhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
   <br>
