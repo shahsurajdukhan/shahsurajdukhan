@@ -13,7 +13,7 @@
 
 <h2>About Me 👤</h2>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamesh-Kadimisetty&label=Profile%20views&color=0e75b6&style=flat" alt="Kamesh" /> </p> -->
-<p align="left"> <a href="https://x.com/KameshK05" target="blank"><img src="https://img.shields.io/twitter/follow/KameshK05?logo=twitter&style=for-the-badge" 
+<p align="left"> <a href="https://x.com/Surajshahdev" target="blank"><img src="https://img.shields.io/twitter/follow/Surajshahdev?logo=twitter&style=for-the-badge" 
  alt="Kamesh Kadimisetty" /></a> </p>
 <ul>
   <li>💬 Ask me about DSA ,Web Development and Finetuning LLMs.</li>
