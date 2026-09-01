@@ -18,7 +18,7 @@
 <ul>
   <li>💬 Ask me about DSA ,Web Development and Finetuning LLMs.</li>
   <li>🌱 Currently learning <b>Reinforcement Learning</b>.</li>
-  <li>📫 Reach out at <a href="mailto:kameshkadimisetty@gmail.com">kameshkadimisetty@gmail.com</a>.</li>
+  <li>📫 Reach out at <a href="mailto:suraj.adi@outlook.com">suraj.adi@outlook.com</a>.</li>
   <li>🧠 I enjoy solving Data Structures & Algorithms (DSA) and training LLMs.</li>
   <li>⚡ Fun fact: I love solving puzzles both in code and in life!</li>
 </ul>
