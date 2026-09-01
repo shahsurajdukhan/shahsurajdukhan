@@ -63,18 +63,3 @@
  </a>
 
 </p>
-
- <!--<div style="display: flex; justify-content: center;">
-    <img src="https://leetcard.jacoblin.cool/Kamesh_Kadimisetty?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" style="margin-right: 20px;"/>
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kamesh_Kadimisetty&theme=dark&border=border&animated=true" alt="LeetCode Stats" />
-</div> -->
-
-<!-- <h2>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamesh-Kadimisetty&theme=algolia" alt="GitHub Streak Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamesh-Kadimisetty&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Kamesh-Kadimisetty&show_icons=true&theme=algolia&include_all_commits=true" alt="GitHub Stats"/> -->
-<!-- </div> --> -->
-
-</div>
