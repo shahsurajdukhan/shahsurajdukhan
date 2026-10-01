@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header" width="100%"/>
+
 <h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Suraj Shah!</h2>
 <h3 align="center">A passionate self Taught Software developer who is learning more and more everyday.</h3>
 
